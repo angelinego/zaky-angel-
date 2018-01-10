@@ -84,3 +84,15 @@ git push
 git add .
 git commit -m "revisi web page-2"
 git push
+git add .
+git commit -m"add new content to pages"
+git push
+angelinego
+git status
+git commit -a
+git add .
+git commit -m "first failed commit"
+git push
+git remote add https://github.com/angelinego/angelinego.github.io
+git push angelinego.github.io
+git push --set-upstream angelinego.github.io master

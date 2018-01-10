@@ -17,7 +17,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "44",
+      "sync_transaction_version": "45",
       "synced": {
          "children": [ {
             "date_added": "13143182033087170",
@@ -658,10 +658,10 @@
             "date_added": "13160057430757982",
             "id": "81",
             "meta_info": {
-               "last_visited_desktop": "13160068074076893"
+               "last_visited_desktop": "13160079421213196"
             },
             "name": "Discover, Share & Review",
-            "sync_transaction_version": "42",
+            "sync_transaction_version": "45",
             "type": "url",
             "url": "https://angelinego.github.io/"
          } ],
