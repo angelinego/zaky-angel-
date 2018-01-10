@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_angeline0/google-chrome-stable_current_amd64.deb" added="2018-01-08T08:45:40Z" modified="2018-01-08T08:51:16Z" visited="2018-01-08T08:45:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-08T08:51:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Downloads" added="2018-01-08T08:52:21Z" modified="2018-01-10T05:18:28Z" visited="2018-01-08T08:52:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-08T08:52:21Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2018-01-10T05:18:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Downloads/google-chrome-stable_current_amd64.deb" added="2018-01-08T08:53:33Z" modified="2018-01-08T08:58:48Z" visited="2018-01-08T08:53:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-08T08:57:52Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2018-01-08T08:58:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Documents/impactbyte" added="2018-01-08T10:21:21Z" modified="2018-01-08T10:21:21Z" visited="2018-01-08T10:21:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2018-01-08T10:21:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Documents/impactbyte/hello.md" added="2018-01-08T10:27:42Z" modified="2018-01-08T10:27:42Z" visited="2018-01-08T10:27:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2018-01-08T10:27:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Documents/website-personal" added="2018-01-09T09:44:22Z" modified="2018-01-10T10:04:07Z" visited="2018-01-09T09:44:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2018-01-09T09:44:22Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2018-01-10T10:04:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Documents/impactbyte/hello-world" added="2018-01-09T15:55:28Z" modified="2018-01-09T15:55:28Z" visited="2018-01-09T15:55:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2018-01-09T15:55:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/angeline/SONY_16GR/Glow%20United/getallsample_Angeline_170103%20(1)%20(Autosaved)%20(Autosaved).xlsx" added="2018-01-10T03:27:02Z" modified="2018-01-10T03:27:17Z" visited="2018-01-10T03:27:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --calc %U&apos;" modified="2018-01-10T03:27:02Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-10T03:27:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/angeline/SONY_16GR/digital%20marketing%20notebook1.docx" added="2018-01-10T04:21:36Z" modified="2018-01-10T04:21:54Z" visited="2018-01-10T04:21:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2018-01-10T04:21:36Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2018-01-10T04:21:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Downloads/Glow%20United.zip" added="2018-01-10T05:17:23Z" modified="2018-01-10T10:03:22Z" visited="2018-01-10T05:17:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2018-01-10T10:03:18Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-01-10T10:03:22Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/angeline/SONY_16GR/Glow%20United/Product%20Image/whamisa%20organic%20flowers%20toner4.jpg" added="2018-01-10T06:17:46Z" modified="2018-01-10T06:17:46Z" visited="2018-01-10T06:17:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-01-10T06:17:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/angeline/Downloads/fontawesome-free-5.0.3.zip" added="2018-01-10T08:52:47Z" modified="2018-01-10T10:03:40Z" visited="2018-01-10T08:52:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-01-10T10:03:40Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

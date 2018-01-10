@@ -1,0 +1,676 @@
+{
+   "checksum": "0d092b90b1cd077f5623c70ba4ac56ea",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13159875916411666",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13159875916411679",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "44",
+      "synced": {
+         "children": [ {
+            "date_added": "13143182033087170",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13160035394177863"
+            },
+            "name": "GIMP - GNU Image Manipulation Program",
+            "sync_transaction_version": "28",
+            "type": "url",
+            "url": "https://www.gimp.org/"
+         }, {
+            "date_added": "13145831103098934",
+            "id": "6",
+            "name": "Canon EOS 5D Mark III vs Sony A7 II | TechRadar",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.techradar.com/how-to/photography-video-capture/cameras/canon-eos-5d-mark-iii-vs-sony-a7-ii-1320878"
+         }, {
+            "date_added": "13145899893118789",
+            "id": "7",
+            "name": "PBS Exim | Manufacturers of all kinds of High-end fashion fabrics and Hand embroidery beading’s",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.pbsexim.com/"
+         }, {
+            "date_added": "13146411615189066",
+            "id": "8",
+            "name": "My journey to becoming a web developer from scratch without a CS degree (and what I learned from it…",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503"
+         }, {
+            "date_added": "13146638145037936",
+            "id": "9",
+            "name": "Interpark",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.globalinterpark.com/event/multi/9/1"
+         }, {
+            "date_added": "13147029910274563",
+            "id": "10",
+            "name": "Stories | Womenwill Indonesia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.womenwill.com/indonesia/stories/"
+         }, {
+            "date_added": "13147237608943238",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13156266225462755"
+            },
+            "name": "Cosmetic product registration in Indonesia Company Registration, Market Research and Visa Services in Indonesia – Cekindo Bisnis Grup, Jakarta, Indonesia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.cekindo.com/formal-process-cosmetic-product-registration-indonesia.html"
+         }, {
+            "date_added": "13147333885983022",
+            "id": "12",
+            "name": "Hong Kong’s Advantages over Singapore in the Startup Game - StartupsHK",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.startupshk.com/hong-kongs-advantages-singapore-startup-game/"
+         }, {
+            "date_added": "13147341376215626",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13155447574229513"
+            },
+            "name": "Interview with Dale Han from Limese. | State Herald",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.stateherald.com/2017/05/06/interview-is-dale-han-from-limese/"
+         }, {
+            "date_added": "13147353838827380",
+            "id": "14",
+            "name": "The Big Start Indonesia by Blibli.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://thebigstart.blibli.com/?utm_source=youtube&utm_medium=mobilemasthead&utm_campaign=thebigstart2"
+         }, {
+            "date_added": "13147842756058491",
+            "id": "15",
+            "name": "Why You Procrastinate: 7 Possible Reasons You Can't Get Anything Done",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.lifehack.org/articles/productivity/why-you-procrastinate-7-possible-reasons-you-cant-get-anything-done.html"
+         }, {
+            "date_added": "13147929208243256",
+            "id": "16",
+            "name": "[8.22] Morning Round-Up: Rakuten Trade Eyes to Disrupt the Stock Trading Industry",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ecommerceiq.asia/morning-round-up-8-22/"
+         }, {
+            "date_added": "13148136153965236",
+            "id": "17",
+            "name": "Finding Your Way Around the Mode Dial",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://digital-photography-school.com/finding-your-way-around-the-mode-dial/"
+         }, {
+            "date_added": "13148192976219372",
+            "id": "18",
+            "meta_info": {
+               "last_visited": "13148192976224487"
+            },
+            "name": "How to Start a Subscription Business: Lessons from a Korean Beauty Box",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.shopify.com/blog/202360137-start-a-subscription-box-business"
+         }, {
+            "date_added": "13148808948508016",
+            "id": "19",
+            "name": "The Evolution of Ecommerce Business Models in Southeast Asia | eIQ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ecommerceiq.asia/evolution-ecommerce-business-models-southeast-asia/"
+         }, {
+            "date_added": "13148847918925074",
+            "id": "20",
+            "name": "Analisis Sharing Economic Gojek – Movie",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/dheanurfitrianti.wordpress.com/2017/02/26/analisis-sharing-economic-gojek/amp/"
+         }, {
+            "date_added": "13148848744002151",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13155479288456067"
+            },
+            "name": "Best Examples of Customer Loyalty and Retention Marketing",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.marketingcloud.com/blog/customer-loyalty-program-examples-tips/"
+         }, {
+            "date_added": "13149020196536527",
+            "id": "22",
+            "name": "Daftar Nomor Telepon Dan Alamat Penjahit Bandung Halaman 1",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.telpon.info/penjahit/bandung/"
+         }, {
+            "date_added": "13149096729265969",
+            "id": "23",
+            "name": "[OFFICIAL] KeepVid: Download YouTube Videos, Facebook, Vimeo, Twitch.Tv, Dailymotion, Youku, Tudou, Metacafe and more!",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://keepvid.com/?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DYa3Rtq95kZE#adContent"
+         }, {
+            "date_added": "13149369306536529",
+            "id": "24",
+            "name": "The 10 best Ultrabooks of 2017: top thin and light laptops reviewed | TechRadar",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.techradar.com/news/mobile-computing/laptops/best-ultrabook-18-top-thin-and-lights-1054355"
+         }, {
+            "date_added": "13149444769050766",
+            "id": "25",
+            "name": "Ten Ways to Get the Most from Your Derma Roller | Quench Beauty",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://quenchbeauty.com/10-derma-roller-tips/"
+         }, {
+            "date_added": "13149533699984817",
+            "id": "26",
+            "name": "From the navy to building a cross-border e-commerce platform, Shayak Mazumder’s story",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/yourstory.com/2017/01/shayak-mazumdar-eunimart/amp/"
+         }, {
+            "date_added": "13149570298512647",
+            "id": "27",
+            "name": "Beauty Pie, the Company Selling $2 Designer Makeup, Is Now Making $5 Designer Skincare - Racked",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.racked.com/2017/6/19/15805306/beauty-pie-skincare-online"
+         }, {
+            "date_added": "13149654206380936",
+            "id": "28",
+            "name": "App Features — TNG Wallet",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.tngwallet.hk/en/app-features"
+         }, {
+            "date_added": "13149793752344386",
+            "id": "29",
+            "name": "Loyalty Case Study: Sephora's Beauty Insider (VIB)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/blog.smile.io/loyalty-case-study-sephoras-beauty-insider-vib%3fhs_amp=true"
+         }, {
+            "date_added": "13149795203688814",
+            "id": "30",
+            "name": "Terms & Conditions - Beauty Insider | Sephora",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.sephora.com/terms-conditions-beauty-insider"
+         }, {
+            "date_added": "13150256887147175",
+            "id": "31",
+            "meta_info": {
+               "last_visited": "13156266580396679"
+            },
+            "name": "Biaya Registrasi dan Perpanjangan (Registrasi Ulang) BPOM | Daftar Harga & Tarif",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://harga.web.id/biaya-registrasi-dan-perpanjangan-registrasi-ulang-bpom.info"
+         }, {
+            "date_added": "13150257502135253",
+            "id": "32",
+            "meta_info": {
+               "last_visited": "13156266703944288"
+            },
+            "name": "SatuLayanan - Layanan",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://satulayanan.id/layanan/index/49/pendaftaran-produk-bpom/bpom"
+         }, {
+            "date_added": "13150482369837397",
+            "id": "33",
+            "name": "windows surface - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.id/search?q=windows+surface&oq=windows+surface&aqs=chrome..69i57.3241j0j4&sourceid=chrome-mobile&ie=UTF-8"
+         }, {
+            "date_added": "13150484431093327",
+            "id": "34",
+            "name": "10 Tips to Improve Your Mental Math Ability",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/gizmodo.com/10-tips-to-improve-your-mental-math-ability-1792597814/amp"
+         }, {
+            "date_added": "13151608155480342",
+            "id": "35",
+            "name": "Seed Manager at Entrepreneur First - Tech in Asia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.techinasia.com/jobs/e47779f9-c100-4a6d-ba3f-5926515d25dd"
+         }, {
+            "date_added": "13151608186995280",
+            "id": "36",
+            "name": "Seed Associate at Entrepreneur First - Tech in Asia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.techinasia.com/jobs/00ff11ec-1ccd-4240-83a9-9687ca6cde1a"
+         }, {
+            "date_added": "13151613237552624",
+            "id": "37",
+            "name": "Here are 250 Ivy League courses you can take online right now for free",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.freecodecamp.org/ivy-league-free-online-courses-a0d7ae675869"
+         }, {
+            "date_added": "13151741240284648",
+            "id": "38",
+            "name": "Talk To Me In Korean",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://talktomeinkorean.libsyn.com/webpage/2011/05/09"
+         }, {
+            "date_added": "13152005450739538",
+            "id": "39",
+            "name": "In Milan, the Coolest New Collection Just Might be Japanese",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/www.vogue.com/article/ujoh-mitsuru-nishizaki/amp"
+         }, {
+            "date_added": "13152209953136000",
+            "id": "40",
+            "meta_info": {
+               "last_visited": "13152209953147219"
+            },
+            "name": "Overloaded Circuits: Why Smart People Underperform",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://hbr.org/2005/01/overloaded-circuits-why-smart-people-underperform"
+         }, {
+            "date_added": "13152842710052159",
+            "id": "41",
+            "meta_info": {
+               "last_visited": "13153215775510426"
+            },
+            "name": "How to create a 5-minute winning pitch deck – Tech in Asia",
+            "sync_transaction_version": "4",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/www.techinasia.com/create-5-minute-winning-pitch-deck/amp/"
+         }, {
+            "date_added": "13153147987129620",
+            "id": "42",
+            "meta_info": {
+               "last_visited": "13153147987136482"
+            },
+            "name": "Aldi’s sell-out Lacura Cuvee Royal skincare range is coming back to stores .... and here's when you can buy it",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.thesun.co.uk/fabulous/4726687/aldis-sell-out-lacura-cuvee-royal-skincare-range-is-coming-back-in-to-store-and-heres-when-you-can-buy-it/amp/"
+         }, {
+            "date_added": "13153173878251803",
+            "id": "43",
+            "meta_info": {
+               "last_visited": "13153215765063178"
+            },
+            "name": "How We Raised $700,000 For Our Startup without a product",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/startup-study-group/how-we-raised-700-000-for-our-startup-without-a-product-360f1e6ab1e2"
+         }, {
+            "date_added": "13153204143946611",
+            "id": "44",
+            "meta_info": {
+               "last_visited": "13153215211899604"
+            },
+            "name": "Airbnb: The Growth Story You Didn't Know - GrowthHackers",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://growthhackers.com/growth-studies/airbnb"
+         }, {
+            "date_added": "13153466037971052",
+            "id": "45",
+            "meta_info": {
+               "last_visited": "13153466037975735"
+            },
+            "name": "The Top 10 Clean Beauty Brands On The Market | LEAFtv",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.leaf.tv/articles/33457/"
+         }, {
+            "date_added": "13153466330164490",
+            "id": "46",
+            "meta_info": {
+               "last_visited": "13153466998118587"
+            },
+            "name": "The Beautyst Marketplace - Mirakl",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.mirakl.com/case-study-the-beautyst/"
+         }, {
+            "date_added": "13153467312900915",
+            "id": "47",
+            "meta_info": {
+               "last_visited": "13155273795476186"
+            },
+            "name": "Beauty Marketplace: Connecting Retailers & Brands | Stylus | Innovation Research & Advisory",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.stylus.com/tdmgvz"
+         }, {
+            "date_added": "13153492733400814",
+            "id": "48",
+            "meta_info": {
+               "last_visited": "13153639074536332"
+            },
+            "name": "How to Build a Beauty Brand in the Digital Age | The Business of Beauty, Inside Beauty | BoF",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.businessoffashion.com/articles/inside-beauty/how-to-build-a-beauty-brand-in-the-digital-age"
+         }, {
+            "date_added": "13153837611707159",
+            "id": "49",
+            "meta_info": {
+               "last_visited": "13153837611725552"
+            },
+            "name": "Reddit - ADHD - Why does it take me so long to complete projects?",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/amp.reddit.com/r/ADHD/comments/3tww6x/why_does_it_take_me_so_long_to_complete_projects/"
+         }, {
+            "date_added": "13153837626079299",
+            "id": "50",
+            "meta_info": {
+               "last_visited": "13153837626082293"
+            },
+            "name": "ADHD and Time Management: Taking Control of Your Time - Marla Cummins",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://marlacummins.com/adhd-and-time-management-taking-control-of-your-time/"
+         }, {
+            "date_added": "13153857671010113",
+            "id": "51",
+            "meta_info": {
+               "last_visited": "13153901318426870"
+            },
+            "name": "Mother Causing My Depression - DEPRESSION CENTRAL - The Depression Forums - A Depression & Mental Health Social Community Support Group",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.depressionforums.org/forums/topic/64686-mother-causing-my-depression/"
+         }, {
+            "date_added": "13154009786214873",
+            "id": "52",
+            "meta_info": {
+               "last_visited": "13154009786218572"
+            },
+            "name": "e27",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://e27.co/job/pomelo-fashion/software-developer-15"
+         }, {
+            "date_added": "13154010304464739",
+            "id": "53",
+            "meta_info": {
+               "last_visited": "13154010304466704"
+            },
+            "name": "J and D Group",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.jdventure.com/"
+         }, {
+            "date_added": "13154079606778514",
+            "id": "54",
+            "meta_info": {
+               "last_visited": "13155104041771481"
+            },
+            "name": "Map of the Money",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://mapofthemoney.com/"
+         }, {
+            "date_added": "13154083281564959",
+            "id": "55",
+            "meta_info": {
+               "last_visited": "13154083281587959"
+            },
+            "name": "Putting Merchants First: Spotlight on Ankiti Bose – Wavemaker Stories – Medium",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/wavemaker-partners/putting-merchants-first-spotlight-on-ankiti-bose-95ed0bbb156f"
+         }, {
+            "date_added": "13154419069098081",
+            "id": "56",
+            "name": "Restricted Ingredients | Follain",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://follain.com/restricted-ingredients-list"
+         }, {
+            "date_added": "13154419318142913",
+            "id": "57",
+            "name": "If there's any DOUBT, it's OUT. | Drunk Elephant",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.drunkelephant.com/pages/de-blacklist"
+         }, {
+            "date_added": "13154439556183694",
+            "id": "58",
+            "name": "11 Behaviors Holding You Back from Moving Forward in Life | Get Busy Living",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://getbusylivingblog.com/11-behaviors-holding-you-back-from-moving-forward-in-life/"
+         }, {
+            "date_added": "13154603673034213",
+            "id": "59",
+            "name": "Beauty Cosmetics and Skincare Exports by Country",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.worldstopexports.com/beauty-cosmetics-and-skincare-exports-by-country/"
+         }, {
+            "date_added": "13154754206486176",
+            "id": "60",
+            "name": "Robinhood - Free Stock Trading",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://robinhood.com/?ref=producthunt"
+         }, {
+            "date_added": "13154793506277279",
+            "id": "61",
+            "name": "Changing face of cosmetics alters $63bn US beauty market",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/amp.ft.com/content/4721ed6a-f797-11e5-96db-fc683b5e52db"
+         }, {
+            "date_added": "13154795144880598",
+            "id": "62",
+            "meta_info": {
+               "last_visited_desktop": "13160042346136466"
+            },
+            "name": "The world's leading software development platform · GitHub",
+            "sync_transaction_version": "33",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13154795180923739",
+            "id": "63",
+            "name": "Libraries  |  Apps Script  |  Google Developers",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://developers.google.com/apps-script/guides/libraries"
+         }, {
+            "date_added": "13155068347628289",
+            "id": "64",
+            "meta_info": {
+               "last_visited": "13155068347635420"
+            },
+            "name": "Core strengthening exercises: How and why",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.thankyourbody.com/core-strengthening-exercises/"
+         }, {
+            "date_added": "13155100097255404",
+            "id": "65",
+            "meta_info": {
+               "last_visited": "13155219914632160"
+            },
+            "name": "Program - 9 weeks to learn Ruby on Rails",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.lewagon.com/program"
+         }, {
+            "date_added": "13155100764499807",
+            "id": "66",
+            "meta_info": {
+               "last_visited": "13155101423014218"
+            },
+            "name": "Le Wagon - FAQ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.lewagon.com/faq"
+         }, {
+            "date_added": "13155292515025910",
+            "id": "67",
+            "meta_info": {
+               "last_visited": "13155292515028562"
+            },
+            "name": "Startup Marketing Checklist",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://startuplister.com/checklist/"
+         }, {
+            "date_added": "13155366871022098",
+            "id": "68",
+            "meta_info": {
+               "last_visited": "13155550578553212"
+            },
+            "name": "Why I Opted Into Being A Solo Startup Founder - Task Pigeon Blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.taskpigeon.co/solo-startup-founder/"
+         }, {
+            "date_added": "13156099784380900",
+            "id": "69",
+            "meta_info": {
+               "last_visited": "13156101971157847"
+            },
+            "name": "How to Move Abroad When You're Young and Broke - VICE",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/www.vice.com/amp/sv/article/5g9ey8/how-to-move-abroad-when-youre-young-and-broke"
+         }, {
+            "date_added": "13156131728081310",
+            "id": "70",
+            "meta_info": {
+               "last_visited": "13156253828007309"
+            },
+            "name": "How quitting my corporate job for my startup dream f*cked my life up",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/swlh/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318"
+         }, {
+            "date_added": "13156224248576328",
+            "id": "71",
+            "meta_info": {
+               "last_visited": "13156254700249748"
+            },
+            "name": "Valuation and Option Pool – AVC",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://avc.com/2009/11/valuation-and-option-pool/"
+         }, {
+            "date_added": "13156319374455442",
+            "id": "72",
+            "meta_info": {
+               "last_visited": "13156319684532089"
+            },
+            "name": "11 Steps to Starting a Successful Business in Your 20s",
+            "sync_transaction_version": "6",
+            "type": "url",
+            "url": "https://www.google.co.id/amp/s/www.entrepreneur.com/amphtml/292854"
+         }, {
+            "date_added": "13159208697080748",
+            "id": "73",
+            "meta_info": {
+               "last_visited": "13159208697083330"
+            },
+            "name": "코튼 캔디볼 - ALIVE:LAB",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.alivelab-shop.com/product/detail.html?product_no=39"
+         }, {
+            "date_added": "13159951362741653",
+            "id": "75",
+            "meta_info": {
+               "last_visited_desktop": "13159952378848117"
+            },
+            "name": "Forking Projects · GitHub Guides",
+            "sync_transaction_version": "20",
+            "type": "url",
+            "url": "https://guides.github.com/activities/forking/"
+         }, {
+            "date_added": "13159953338327808",
+            "id": "76",
+            "meta_info": {
+               "last_visited_desktop": "13159953338380716"
+            },
+            "name": "GitHub Git Cheat Sheet - On Demand Training",
+            "sync_transaction_version": "24",
+            "type": "url",
+            "url": "https://services.github.com/on-demand/downloads/github-git-cheat-sheet/"
+         }, {
+            "date_added": "13159954279209566",
+            "id": "77",
+            "meta_info": {
+               "last_visited_desktop": "13159954279212634"
+            },
+            "name": "Jual MacBook Air 2017 (13\", 1.8Ghz Core i5/8Gb/256Gb) - Macstuff | Tokopedia",
+            "sync_transaction_version": "27",
+            "type": "url",
+            "url": "https://www.tokopedia.com/macstuff/macbook-air-2017-13-1-8ghz-core-i5-8gb-256gb?trkid=f=Ca0000L000P0W0S0Sh00Co1Po0Fr0Cb0_src=search_page=1_ob=23_q=macbook+air+i5+256gb_catid=289_po=13"
+         }, {
+            "date_added": "13160038058933786",
+            "id": "79",
+            "meta_info": {
+               "last_visited_desktop": "13160038058948784"
+            },
+            "name": "EnterKomputer - memoryram.php",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "http://www.enterkomputer.com/memoryram.php"
+         }, {
+            "date_added": "13160049943591526",
+            "id": "80",
+            "meta_info": {
+               "last_visited_desktop": "13160077095177004"
+            },
+            "name": "Flexbox Froggy - A game for learning CSS flexbox",
+            "sync_transaction_version": "44",
+            "type": "url",
+            "url": "http://flexboxfroggy.com/"
+         }, {
+            "date_added": "13160057430757982",
+            "id": "81",
+            "meta_info": {
+               "last_visited_desktop": "13160068074076893"
+            },
+            "name": "Discover, Share & Review",
+            "sync_transaction_version": "42",
+            "type": "url",
+            "url": "https://angelinego.github.io/"
+         } ],
+         "date_added": "13159875916411683",
+         "date_modified": "13160057430757982",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

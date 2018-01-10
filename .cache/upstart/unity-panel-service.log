@@ -1,0 +1,38 @@
+
+(unity-panel-service:1701): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/360001B
+
+(unity-panel-service:1701): Indicator-Appmenu-WARNING **: Already have a menu for window ID 69206017 with path /com/canonical/menu/4200001 from :1.72, unregistering that one
+
+** (unity-panel-service:1701): WARNING **: Failed to get active window: Timeout was reached
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+** (unity-panel-service:1701): WARNING **: Failed to fetch property `_GTK_UNIQUE_BUS_NAME': Timeout was reached
+
+(unity-panel-service:1701): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/4200048
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1701): Indicator-Appmenu-WARNING **: Already have a menu for window ID 69206017 with path /com/canonical/menu/4200001 from :1.95, unregistering that one
+
+(unity-panel-service:1701): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/4200043
+
+(unity-panel-service:1701): Indicator-Appmenu-WARNING **: Already have a menu for window ID 81789151 with path /com/canonical/menu/4E000DF from :1.101, unregistering that one

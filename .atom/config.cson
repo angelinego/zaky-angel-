@@ -1,0 +1,11 @@
+"*":
+  "atom-beautify":
+    html:
+      beautify_on_save: true
+  core: {}
+  "exception-reporting":
+    userId: "ccab1530-d69b-4053-bee8-5656ccebf192"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false

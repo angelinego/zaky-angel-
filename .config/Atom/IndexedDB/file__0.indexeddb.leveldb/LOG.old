@@ -1,0 +1,18 @@
+2018/01/10-21:28:32.731 2524 Reusing MANIFEST /home/angeline/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/01/10-21:28:32.731 2524 Recovering log #14
+2018/01/10-21:28:33.060 2524 Reusing old log /home/angeline/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000014.log 
+2018/01/10-22:35:11.013 6029 Level-0 table #18: started
+2018/01/10-22:35:11.806 6029 Level-0 table #18: 2641948 bytes OK
+2018/01/10-22:35:11.925 6029 Delete type=0 #14
+2018/01/10-23:28:40.669 6029 Level-0 table #20: started
+2018/01/10-23:28:41.190 6029 Level-0 table #20: 2771820 bytes OK
+2018/01/10-23:28:41.285 6029 Delete type=0 #17
+2018/01/10-23:28:41.295 6029 Compacting 4@0 + 1@1 files
+2018/01/10-23:28:41.723 6029 Generated table #21@0: 3 keys, 6105 bytes
+2018/01/10-23:28:41.723 6029 Compacted 4@0 + 1@1 files => 6105 bytes
+2018/01/10-23:28:41.765 6029 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/01/10-23:28:41.765 6029 Delete type=2 #13
+2018/01/10-23:28:41.786 6029 Delete type=2 #15
+2018/01/10-23:28:41.803 6029 Delete type=2 #20
+2018/01/10-23:28:41.805 6029 Delete type=2 #18
+2018/01/10-23:28:41.806 6029 Delete type=2 #11

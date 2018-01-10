@@ -1,0 +1,272 @@
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+WARN  2018-01-10 21:28:35 unity <unknown>:0 Failed to get active window: Timeout was reached
+WARN  2018-01-10 21:28:36 unity <unknown>:0 Failed to fetch paths: Timeout was reached
+WARN  2018-01-10 21:28:37 unity <unknown>:0 Failed to get active window: Timeout was reached
+compiz (core) - Warn: Attempted to set < 1 width on a window
+compiz (core) - Warn: Attempted to set < 1 height on a window
+WARN  2018-01-10 21:29:36 unity <unknown>:0 Failed to fetch xid: Timeout was reached
+compiz (core) - Warn: Attempted to set < 1 width on a window
+compiz (core) - Warn: Attempted to set < 1 height on a window
+[2084:2084:0110/214048.191143:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 44
+[2084:2084:0110/214050.876914:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 46
+[2084:2084:0110/214053.680944:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 47
+[2084:2084:0110/214121.460791:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 48
+[2084:2084:0110/214156.067539:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 49
+[2084:2084:0110/214158.520963:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 52
+[2084:2084:0110/214239.521602:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 53
+[2084:2084:0110/214246.203409:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 54
+[2084:2084:0110/214331.233276:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 55
+[2084:2084:0110/214350.153079:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 56
+[2084:2084:0110/214353.379096:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 57
+[2084:2084:0110/214401.666712:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 58
+[2084:2084:0110/214405.740362:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 59
+[2084:2084:0110/214412.536422:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 60
+[2084:2084:0110/214429.700683:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 61
+[2084:2084:0110/214456.341144:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 62
+[2084:2084:0110/214504.394185:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 63
+WARN  2018-01-10 21:53:03 unity <unknown>:0 Failed to get active window: Timeout was reached
+WARN  2018-01-10 21:53:47 unity.dash.view DashView.cpp:1267 Search failed  ''=> Timed out waiting for scope proxy connection
+WARN  2018-01-10 21:53:47 unity.dash.scopeproxy ScopeProxy.cpp:516 Could not search '' on home.scope => Timed out waiting for scope proxy connection
+WARN  2018-01-10 21:53:50 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2018-01-10 21:53:59 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2018-01-10 21:54:00 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:4129): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:4129): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+** (soffice:4129): WARNING **: Unknown event notification 36
+
+** (soffice:4129): WARNING **: Unknown event notification 36
+
+** (soffice:4129): WARNING **: Unknown event notification 36
+
+** (soffice:4129): WARNING **: Unknown event notification 36
+
+** (soffice:4129): WARNING **: Unknown event notification 36
+
+** (soffice:4129): WARNING **: Unknown event notification 36
+
+** (soffice:4129): WARNING **: Unknown event notification 36
+[2084:2084:0110/215615.179832:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 64
+[2084:2084:0110/215634.414683:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 101
+[2084:2084:0110/215700.687482:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 102
+[2084:2084:0110/215800.919704:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 103
+[2084:2084:0110/215833.060795:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 104
+[2084:2084:0110/215836.302992:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 105
+[2084:2084:0110/215839.803769:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 106
+[2084:2084:0110/220019.422052:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 107
+[2084:2084:0110/220035.169069:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 108
+[2084:2084:0110/220055.198118:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 109
+[2084:2084:0110/220132.230327:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 110
+[2084:2084:0110/220136.010649:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 111
+[2084:2084:0110/220204.485026:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 112
+[2084:2084:0110/220208.661126:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 113
+[2084:2084:0110/220222.662440:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 114
+[2084:2084:0110/220234.675645:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 115
+[2084:2084:0110/220246.411604:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 116
+[2084:2084:0110/220256.342947:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 117
+[2084:2084:0110/220616.578049:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 118
+[2084:2084:0110/220652.352776:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 121
+[2084:2084:0110/222348.380694:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 122
+[2084:2084:0110/222434.069606:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 123
+[2084:2084:0110/222459.539821:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 124
+[2084:2084:0110/222505.513091:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 125
+[2084:2084:0110/222539.106680:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 126
+[2084:2084:0110/222553.063990:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 127
+[2084:2084:0110/222628.191238:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 128
+ERROR 2018-01-10 22:27:07 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+ERROR 2018-01-10 22:27:07 unity.decoration.shape DecorationsShape.cpp:73 Failed to get shape rectangles
+compiz (opengl) - Error: Impossible to bind a pixmap bigger than 8192x8192 to texture.
+[2084:2084:0110/222710.900161:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 129
+[2084:2084:0110/222722.192503:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 130
+[2084:2084:0110/223132.912098:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 131
+[2084:2084:0110/223142.220444:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 138
+[2084:2084:0110/223151.465152:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 139
+[2084:2084:0110/223204.497236:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 140
+[2084:2084:0110/223230.137241:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 141
+[2084:2084:0110/223239.485102:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 142
+[2084:2084:0110/223246.864545:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 143
+[2084:2084:0110/223253.691028:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 144
+[2084:2084:0110/223306.381763:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 145
+[2084:2084:0110/223312.945303:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 146
+[2084:2084:0110/223342.819025:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 147
+[2084:2084:0110/223356.897486:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 148
+WARN  2018-01-10 22:34:21 unity <unknown>:0 Failed to get active window: Timeout was reached
+[2084:2084:0110/223431.378319:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 149
+[2084:2084:0110/223447.334490:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 150
+[2084:2084:0110/223456.995063:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 151
+[2084:2084:0110/223711.690268:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 152
+[2084:2084:0110/223721.405091:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 159
+[2084:2084:0110/224202.637243:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 160
+[2084:2084:0110/224241.155560:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 161
+[2084:2084:0110/224357.356470:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 162
+[2084:2084:0110/224504.367561:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 163
+[2084:2084:0110/224535.637151:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 164
+[2084:2084:0110/224612.268698:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 165
+[2084:2084:0110/224635.161059:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 166
+[2084:2130:0110/224820.470845:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1:37:0110/224822.975337:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[2084:2084:0110/225000.947979:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 167
+[2084:2084:0110/225021.100795:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 174
+[2084:2084:0110/225038.505143:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 175
+[2084:2084:0110/225049.719649:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 176
+[2084:2084:0110/225147.985244:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 177
+[2084:2084:0110/225203.449722:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 178
+[2084:2084:0110/225222.837740:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 179
+[2084:2084:0110/225232.596590:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 180
+[2084:2084:0110/225242.469654:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 181
+[2084:2084:0110/225527.526232:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 182
+[2084:2130:0110/225551.399925:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[2084:2084:0110/225817.874884:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 187
+[2084:2130:0110/230046.607553:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[2084:2084:0110/230354.898675:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 193
+[2084:2130:0110/230511.579204:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[2084:2130:0110/230606.435402:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[2084:2084:0110/230703.578676:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 200
+[2084:2084:0110/230929.689760:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 208
+[2084:2084:0110/230943.153668:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 209
+[2084:2084:0110/230952.507698:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 210
+[2084:2084:0110/231004.907941:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 211
+[2084:2084:0110/231016.558705:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 212
+[2084:2084:0110/231036.978886:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 213
+[2084:2084:0110/231055.842261:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 214
+[2084:2084:0110/231126.764190:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 215
+[2084:2084:0110/231301.220297:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 216
+[2084:2084:0110/231310.287261:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 217
+[2084:2084:0110/231339.275525:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 218
+[2084:2084:0110/231416.686240:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 219
+[2084:2084:0110/231456.135516:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 220
+[2084:2084:0110/231537.688410:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 221
+[2084:2084:0110/231546.358042:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 222
+[2084:2084:0110/231618.317198:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 223
+[2084:2084:0110/231628.144584:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 224
+[2084:2084:0110/231640.527214:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 225
+[2084:2084:0110/231651.428359:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 226
+[2084:2084:0110/231818.693616:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 227
+[2084:2084:0110/231908.137745:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 228
+[2084:2084:0110/231929.366798:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 229
+[2084:2084:0110/231945.486737:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 230
+[2084:2084:0110/232027.455575:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 231
+[2084:2084:0110/232208.750102:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 232
+[2084:2084:0110/232218.353376:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 235
+[2084:2084:0110/232230.805780:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 236
+[2084:2084:0110/232247.427607:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 237
+[2084:2084:0110/232303.244122:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 238
+[2084:2130:0110/232338.132006:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[2084:2084:0110/232454.075746:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 239
+[2084:2084:0110/232511.017642:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 242
+[2084:2084:0110/232526.762721:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 243
+[2084:2084:0110/232624.329225:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 244
+[2084:2084:0110/232655.809872:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 245
+[2084:2084:0110/232719.097002:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 246
+[2084:2084:0110/232734.675339:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 247
+[2084:2084:0110/232759.407364:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 248
+[2084:2084:0110/232817.058675:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 249
+[2084:2084:0110/232828.734663:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 250
+[2084:2084:0110/232847.720049:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 251
+[2084:2084:0110/232857.922475:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 252
+[2084:2084:0110/232913.989557:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 253
+[2084:2084:0110/232952.399037:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 254
+[2084:2084:0110/233007.093423:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 255
+[2084:2084:0110/233017.910349:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 256
+[2084:2084:0110/233045.751700:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 257
+[2084:2084:0110/233052.763604:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 258
+[2084:2084:0110/233105.747959:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 259
+[2084:2084:0110/233134.464079:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 260
+[2084:2084:0110/233145.972243:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 265
+[2084:2084:0110/233244.365702:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 266
+[2084:2084:0110/233249.511658:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 267
+[2084:2084:0110/233259.300463:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 268
+[2084:2084:0110/233310.015551:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 269
+[2084:2130:0110/233622.689905:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[2084:2084:0110/234536.409858:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 270
+[2084:2084:0110/234732.423807:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 274
+[2084:2084:0110/235354.112422:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 291
+[2084:2084:0110/235550.921145:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 293
+[2084:2084:0110/235553.733321:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 294
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[2084:2084:0110/235614.931289:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 295
+[2084:2084:0110/235619.225131:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 296
+[2084:2084:0110/235633.702673:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 297
+Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: worker.js:71:22
+Remote event names: destroyed, crashed
+
+(soffice:4129): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[10561:10608:0110/235806.028256:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+[10561:10608:0110/235811.528050:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -137
+[10561:10561:0110/235943.913891:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 18
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 0 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 1 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get uint32. Column 2 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get uint32. Column 3 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 4 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 6 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 7 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. Column 8 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 0 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 1 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get uint32. Column 2 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get uint32. Column 3 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 4 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 6 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get string. Column 7 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+ERROR 2018-01-11 00:03:32 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x28316c0 at position 13. The row has probably been removed
+ERROR 2018-01-11 00:03:32 unity null <unknown>:0 Unable to get value. Column 8 in DeeSequenceModel@0x28316c0 holds a NULL value in row 13
+[10561:10561:0111/000920.595461:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 41
+[10561:10561:0111/001401.638473:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 43
+[10561:10561:0111/001628.735216:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 46
+[10561:10561:0111/001631.279926:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 47
+[10561:10561:0111/001646.969368:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 48
+[10561:10561:0111/001748.773617:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 49
+[10561:10561:0111/001813.969852:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 29
+[10561:10561:0111/002237.760911:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 50
+[10561:10561:0111/002435.605880:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 61
+[10561:10561:0111/002438.744818:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 62
+[10561:10561:0111/002626.579252:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 63
+[10561:10561:0111/002629.322069:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 64

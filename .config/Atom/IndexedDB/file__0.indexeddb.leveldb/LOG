@@ -1,0 +1,6 @@
+2018/01/10-23:57:53.798 10748 Reusing MANIFEST /home/angeline/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/01/10-23:57:53.798 10748 Recovering log #19
+2018/01/10-23:57:53.915 10748 Reusing old log /home/angeline/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000019.log 
+2018/01/11-00:13:56.260 11669 Level-0 table #24: started
+2018/01/11-00:13:56.540 11669 Level-0 table #24: 2450548 bytes OK
+2018/01/11-00:13:56.598 11669 Delete type=0 #19
